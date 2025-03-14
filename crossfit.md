@@ -36,3 +36,22 @@ Reglas de seguridad
 - No acapar material a tu alrededor
 - Volver a colgar el material en su sitio cuando se deje de necesitar
 - Limpiar bien el material si está manchado
+
+## Consejos y precauciones
+
+Para practicar CrossFit de forma segura, es importante tener en cuenta la técnica, el equipo, la nutrición y la progresión de cargas. 
+Técnica 
+- Aprende bien cómo se realiza cada ejercicio.
+- No intentes levantar más peso del que puedes manejar.
+- Sigue las indicaciones de los monitores.
+- Domina la técnica antes de aumentar el peso o la intensidad.
+Equipo 
+- Usa calzado específico para CrossFit que te brinde soporte y estabilidad.
+- Considera el uso de cinturones de levantamiento, muñequeras y rodilleras.
+- Asegúrate de que el equipo esté configurado correctamente.
+Nutrición 
+- Consume alimentos ricos en hidratos de carbono, como pan, pasta, arroz, cereales, tubérculos, legumbres y fruta.
+- Consume alimentos ricos en proteínas, como legumbres, pescados, huevos, lácteos, carnes, semillas y soja.
+Progresión de cargas
+- Si estás empezando, comienza con pesos más bajos y ve aumentando gradualmente. 
+- Adapta el peso a lo que creas que puedes levantar. 
