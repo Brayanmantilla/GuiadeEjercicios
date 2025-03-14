@@ -44,3 +44,28 @@ Preparación
 - Ejercicios como sentadillas, levantamientos de peso muerto y trabajo con pesas
 - Marca un calendario de entrenamiento
 - Exígete más a ti mismo para avanzar y ganar resistencia
+
+## Consejos y precauciones
+
+Para andar en bicicleta de forma segura y cómoda, es importante seguir algunas recomendaciones de seguridad y de alimentación. 
+Seguridad 
+- Cumplir las normas de tránsito, como respetar los semáforos y las señales de alto
+- Usar casco, ropa brillante, equipo reflectante, y luces delanteras y traseras
+- Evitar zigzaguear o hacer piruetas
+- No usar auriculares
+- Prestar atención al estado del pavimento
+- Extremar las precauciones con lluvia
+- Mantener la bicicleta en buen estado
+- Usar un timbre
+- Circular por el centro del carril
+- Señalar las maniobras
+Alimentación 
+- Consumir una carga de carbohidratos complejos la noche anterior a la competición
+- Durante la competición, priorizar la ingesta de líquidos
+- Después de la competición, optar por comidas ricas en carbohidratos y proteínas
+Musculatura 
+- Trabajar la musculatura del core, como los abdominales, para mantener una buena postura sobre la bici
+- Realizar sentadillas, planchas, flexiones y otros ejercicios similares
+Pausas 
+-Si el recorrido durará dos horas o más, comenzar a comer de 45 minutos a una hora
+- Continuar comiendo pequeñas cantidades cada 15 a 20 minutos
