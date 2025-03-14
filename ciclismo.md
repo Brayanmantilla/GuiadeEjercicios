@@ -24,3 +24,23 @@ Sociales y medioambientales
 - Permite evitar el tráfico
 - Contribuye a la lucha contra la contaminación
 - Ahorra dinero en combustible, transporte público y un vehículo propio
+
+## Instrucciones
+
+Para andar en bicicleta, debes seguir normas de tránsito y de seguridad. También es importante ser constante y prepararte para cualquier imprevisto. 
+Normas de tránsito 
+- Respeta los semáforos y ceda el paso a los peatones
+- Transita por la derecha de las vías, a no más de un metro de la acera
+- No uses las vías exclusivas para el transporte público
+- No adelantes por la derecha o entre vehículos
+- No uses auriculares mientras montas
+Normas de seguridad
+- Usa casco y protege zonas del cuerpo que puedan quemarse con el asfalto 
+- Mantén la bicicleta señalizada con catadióptricos 
+- Señala tus movimientos 
+- Sé autosuficiente: lleva un kit de recambios, algo de dinero en efectivo y una prenda de quita y pon 
+Preparación 
+- Incorpora entrenamientos de fuerza en el gimnasio
+- Ejercicios como sentadillas, levantamientos de peso muerto y trabajo con pesas
+- Marca un calendario de entrenamiento
+- Exígete más a ti mismo para avanzar y ganar resistencia
