@@ -13,3 +13,26 @@ El CrossFit tiene muchos beneficios para la salud física y mental, entre ellos:
 - Mejora la coordinación: Desarrolla la agilidad, la coordinación y el equilibrio 
 - Mejora el estado de ánimo: Ayuda a reducir el estrés y mejora el estado de ánimo 
 - Mejora la autoestima: Al lograr realizar los ejercicios perfectamente, se experimenta un sentimiento de dominio y control sobre lo que se hace 
+
+## Instrucciones
+
+Las instrucciones de CrossFit incluyen los ejercicios, el tiempo y el número de repeticiones que se deben realizar. También hay reglas de comportamiento y de seguridad. 
+Ejercicios
+- Un entrenamiento de CrossFit incluye calentamiento, trabajo de fuerza, entrenamiento del día (WOD) y enfriamiento. 
+- El WOD es el programa de ejercicios que marca el profesor para el día. 
+Los entrenamientos pueden incluir flexiones, tracción, máquinas de remo, barras de halterofilia, discos, cajas pliométricas, mancuernas, comba de saltar, cuerda para trepar, entre otros. 
+Reglas de comportamiento 
+- Ser puntual
+- Recoger el material utilizado
+- Respetar a los compañeros
+- Preguntar si no se sabe realizar un movimiento
+- No tirar las barras sin discos
+- Limpiar el sudor con una toalla
+- Prestar atención a las indicaciones del coach
+- Utilizar solo el magnesio necesario
+- Animar a los demás
+Reglas de seguridad 
+- Evitar soltar la barra sin discos o con discos de 5 o 10 kilos
+- No acapar material a tu alrededor
+- Volver a colgar el material en su sitio cuando se deje de necesitar
+- Limpiar bien el material si está manchado
