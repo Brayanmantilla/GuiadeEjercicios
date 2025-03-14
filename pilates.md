@@ -47,3 +47,14 @@ Consejos para planificar una clase de pilates
 - Adaptar el estilo de enseñanza a la capacidad de los participantes
 - Tener en cuenta el flujo y la transición entre los ejercicios
 - Considerar períodos de transición más largos o diferentes intensidades según la capacidad de la audiencia
+
+## Consejos y precauciones
+Para practicar pilates, se recomienda:
+- Elegir un instructor calificado: Un instructor puede ayudar a aprender a respirar correctamente y a modificar o saltear movimientos. 
+- Vestirse cómodamente: Ropa transpirable que permita moverse con libertad. 
+- Iniciar con ejercicios básicos: Comenzar con ejercicios que resulten cómodos y que ayuden a avanzar. 
+- Prestar atención a la alineación: Lograr una alineación entre la cabeza, la columna cervical y el resto de la columna. 
+- Respirar adecuadamente: La respiración es muy importante y no es tan fácil como parece. 
+- Escuchar al cuerpo: Detenerse y volver a evaluar si se siente dolor. 
+- Practicar regularmente: La frecuencia de las clases depende de los objetivos. 
+- Consumir carbohidratos complejos: Estos se encuentran en alimentos como la avena, el arroz integral, las batatas y los cereales integrales. 
