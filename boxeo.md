@@ -28,3 +28,29 @@ Reglas de la pelea:
 - No se puede luchar cuerpo a cuerpo o utilizar los brazos. 
 - Si un peleador cae, debe levantarse en un rango de 10 segundos. 
 - Los boxeadores son agrupados en diferentes categorías de peso. 
+
+## Consejos y precauciones
+
+Para practicar boxeo, es importante tener en cuenta la protección, la técnica, la respiración y la nutrición. 
+Protección 
+- Usar guantes de boxeo bien acolchados y de la talla correcta
+- Mantener la muñeca recta al golpear
+- Proteger el rostro con las manos en posición de guardia
+Técnica 
+- Golpear con los nudillos de los dedos índice y medio
+- Usar todo el cuerpo para golpear, no solo los brazos y hombros
+- Mantener la barbilla baja al golpear
+- Mantener las piernas ligeramente flexionadas y separadas a la anchura de los hombros
+- Girar la cadera al mismo tiempo que se lanza el golpe
+- Retirar el brazo rápidamente después de impactar
+Respiración 
+- Mantener una respiración constante y controlada
+- Exhalar al lanzar un golpe para aumentar la potencia
+- Inhalar durante la defensa para mantener un suministro constante de oxígeno a los músculos
+Nutrición 
+- Seguir una dieta equilibrada y rica en nutrientes, Hidratarse, Dormir y descansar lo suficiente. 
+Precauciones 
+- Calentar los músculos antes de comenzar cualquier entrenamiento
+- Evitar aumentar la intensidad de los golpes de manera abrupta
+- Evitar lesiones con una buena nutrición y recuperación
+- Evitar lesiones con una respiración adecuada
