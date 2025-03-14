@@ -19,3 +19,17 @@ Para que la caminata se considere cardio, también debe realizarse durante un pe
 - Hidratación: Bebe abundante agua. 
 - Vestimenta: Usa ropa cómoda y ligera, adecuada al tiempo. 
 - Calzado: Usa zapatillas de deporte con suelas finas y talones oblicuos. 
+
+## Consejos
+- Postura 
+Mantén la cabeza erguida, la espalda recta y el abdomen plano
+Balancea los brazos de forma natural
+Aprieta los músculos del abdomen
+Camina con los pies rodando desde el talón hasta la punta
+- Hidratación 
+Bebe agua antes y después de caminar
+Lleva agua contigo, especialmente si hace calor
+Evita las bebidas con cafeína antes del paseo
+- Control de la intensidad 
+Utiliza un rango de pulsaciones donde debe mantener a su corazón durante el ejercicio
+La frecuencia cardiaca máxima se calcula de acuerdo a la edad con la siguiente fórmula: Frecuencia cardiaca máxima = (220- edad en años)
