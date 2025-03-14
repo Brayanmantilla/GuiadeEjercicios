@@ -18,3 +18,13 @@ Mentales
 - Mejora la autoestima y la confianza: El boxeo ayuda a mejorar la confianza en uno mismo y a eliminar complejos. 
 - Mejora la concentración: El boxeo ayuda a mejorar la concentración. 
 - Ayuda a comprender el impacto de la fuerza: El boxeo ayuda a comprender mejor el impacto que puede tener el uso de la fuerza y sus consecuencias. 
+
+## Instrucciones
+
+Las instrucciones del boxeo incluyen las reglas de la pelea, el equipo necesario, y el sistema de puntuación. 
+Reglas de la pelea:
+- Los boxeadores deben golpear a su oponente para derribarlo y que permanezca 10 segundos en el piso. 
+- No se puede golpear en la nuca, por debajo del cinturón, ni realizar cabezazos, mordiscos o empujones. 
+- No se puede luchar cuerpo a cuerpo o utilizar los brazos. 
+- Si un peleador cae, debe levantarse en un rango de 10 segundos. 
+- Los boxeadores son agrupados en diferentes categorías de peso. 
