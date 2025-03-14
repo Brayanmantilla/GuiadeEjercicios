@@ -25,3 +25,25 @@ Beneficios mentales
 Beneficios para la prevención de caídas 
 - Reduce el riesgo de caídas, especialmente a medida que envejecemos
 - Fortalece, coordina y equilibra la parte inferior del cuerpo
+
+## Instrucciones
+
+Las instrucciones de pilates incluyen ejercicios suaves, respiración adecuada, y atención a la alineación. Los principios básicos del pilates son: 
+Concentración, Respiración, Control, Fluidez de movimientos, Centralización, Precisión.
+Recomendaciones para principiantes 
+- Tomar clases con un instructor cualificado
+- Empezar con ejercicios básicos
+- Escuchar al cuerpo
+- Practicar regularmente
+- Mantener una respiración adecuada
+- Prestar atención a la alineación
+- No preocuparse por la apariencia
+Ejercicios de pilates 
+- Calentamiento
+- Serie de ejercicios, a menudo acostado en el suelo
+- Ejercicios para cerrar la sesión, que a menudo incluyen estiramientos
+Consejos para planificar una clase de pilates 
+- Organizar los ejercicios en una secuencia lógica
+- Adaptar el estilo de enseñanza a la capacidad de los participantes
+- Tener en cuenta el flujo y la transición entre los ejercicios
+- Considerar períodos de transición más largos o diferentes intensidades según la capacidad de la audiencia
