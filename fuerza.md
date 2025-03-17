@@ -20,3 +20,20 @@ Para hacer ejercicios de fuerza, puedes seguir estas instrucciones:
 - Intenta el máximo: En la última serie, intenta hacer todas las repeticiones que puedas. 
 - Evita el dolor: No hagas repeticiones máximas, pesos máximos ni maniobras de balística si no eres mayor de edad. Deja de hacer levantamientos si sientes dolor. 
 - Mantente hidratado: Bebe agua para mantenerte hidratado
+
+## Consejos y precauciones
+Consejos 
+- Calienta antes de empezar, por ejemplo, caminando a paso ligero durante 5 a 10 minutos.
+- Usa un vestuario adecuado y zapatos con buena tracción.
+- Levanta las pesas de manera lenta y controlada.
+- Descansa entre 3 y 5 minutos entre series.
+- No te exijas demasiado.
+- Si sientes dolor, deja de hacer el ejercicio.
+- Registra los entrenamientos y los pesos que manejas.
+Precauciones 
+- No realices repeticiones máximas, pesos máximos ni maniobras de balística antes de llegar a la madurez del esqueleto.
+- No te apures.
+- No omitas el calentamiento.
+- No ignores el dolor.
+- No te exijas demasiado.
+- No te olvides del calzado.
