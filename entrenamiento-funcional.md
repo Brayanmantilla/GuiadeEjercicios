@@ -38,3 +38,20 @@ Algunos ejercicios de entrenamiento funcional
 - Sentadillas
 - Zancadas
 - Plancha con elevación de piernas
+
+## Consejos y precauciones
+Consejos
+- Calienta con ejercicios de movilidad, sobre todo en la columna y la cintura escapular. 
+- Estima los músculos implicados en cada ejercicio. 
+- Prioriza la técnica sobre la velocidad o la intensidad. 
+- Descansa entre sesiones para que tu cuerpo se recupere. 
+- Realiza estiramientos suaves entre series y al final de cada sesión. 
+- Adapta los ejercicios según tu nivel de condición física. 
+- Consulta con un profesional de la salud si tienes alguna preocupación. 
+Precauciones 
+- Viste ropa y calzado cómodos.
+- Toma medidas de protección ante los factores ambientales.
+- Evita hacer actividad física nada más terminar de comer.
+- Bebe agua una hora antes del ejercicio, durante y después de este.
+- Duerme al menos 7 u 8 horas para que tu cuerpo se recupere.
+- Realízate un masaje para mejorar la circulación y el bienestar.
