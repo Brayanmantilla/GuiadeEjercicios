@@ -14,3 +14,27 @@ El entrenamiento funcional tiene muchos beneficios, entre ellos:
 - Eliminación de grasa corporal: Ayuda a quemar grasa corporal. 
 - Prevención de la pérdida de masa muscular: Ayuda a prevenir la pérdida de masa muscular, especialmente en los adultos mayores. 
 - Mejora la calidad de vida: Mejora la capacidad para realizar actividades cotidianas. 
+
+## Instrucciones
+
+El entrenamiento funcional es una rutina de ejercicios que se puede adaptar a las necesidades de cada persona. Para realizarlo, se pueden seguir estos pasos: 
+- Evaluar objetivos y necesidades
+- Realizar una valoración física
+- Seleccionar los ejercicios más adecuados
+- Seguir una rutina de ejercicios
+Evaluación física 
+- Entrevista para conocer el historial médico, lesiones previas, condiciones de salud y nivel de actividad física
+- Valoración postural y pesaje
+- Pruebas y test para evaluar la fuerza, resistencia, flexibilidad, equilibrio y coordinación
+- Rutina de ejercicios
+- Realizar series de 3 a 6 ejercicios que duran entre 45 y 60 minutos 
+- Iniciar con ejercicios simples a un mayor volumen y una intensidad menor 
+- A medida que se avanza, pasar a ejercicios más complejos a un menor volumen y una intensidad mayor 
+Algunos ejercicios de entrenamiento funcional 
+- Saltos
+- Flexiones de pecho
+- Tijeras
+- Abdominales
+- Sentadillas
+- Zancadas
+- Plancha con elevación de piernas
